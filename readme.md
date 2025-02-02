@@ -4,7 +4,6 @@
 Welcome to my GitHub profile! I am a programmer, designer, and team player. Variety is my interest and I am always looking to explore new creative mediums.
 ## Current Projects
 * [Penguin Games](https://www.penguingames.fun): A Terraria Minigame Server.
-* [the-right-move](https://github.com/squidistaken/the-right-move): Mini Puzzle Metroidvania I work on my free time (which is never...).
 ## Links of Interest
 * [Website](https://www.marcusp.xyz/)
 * [LinkedIn](https://www.linkedin.com/in/marcusper/)
